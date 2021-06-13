@@ -1,0 +1,12 @@
+/*
+   important !!!
+   warning this css is only for testing
+   please don't copy anything from here !
+ */
+div{
+    background:red;
+    display: block;
+    width:500px;
+    height: 300px;
+    margin: 0 auto;
+}
